@@ -22,4 +22,4 @@ After installing the IDE on your laptop, you can open the correct file for your 
 The AutaWata website will provide you with extra information on the AutaWata.
 
 
-peakbeac.github.io/ecp/autawata
+https://peakbeac.github.io/ecp/autawata
